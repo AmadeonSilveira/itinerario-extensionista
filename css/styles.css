@@ -186,7 +186,7 @@ body {
 footer {
   background: #0f172a;
   text-align: center;
-  padding: 3rem 1rem;
+  padding: 20px;
   font-size: 0.9rem;
   color: var(--text-subtle);
 }
