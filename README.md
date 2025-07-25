@@ -25,12 +25,14 @@ Este é um projeto simples criado como parte das atividades de extensão da facu
 
 ## 📂 Estrutura do repositório
 
-├── index.html # Página principal
-├── css/ # Estilos do site
-│ └── style.css 
-├── js/ # Scripts
-│ └── global.js 
-└── images/ # Imagens utilizadas no site
+```
+├── index.html               # Página principal
+├── css/                     # Estilos do site
+│   └── style.css
+├── js/                      # Scripts
+│   └── global.js
+└── images/                  # Imagens utilizadas no site
+```
 
 ---
 
