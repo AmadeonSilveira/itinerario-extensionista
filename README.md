@@ -19,7 +19,7 @@ Este é um projeto simples criado como parte das atividades de extensão da facu
 
 ## 👩🏽‍🏫 O que é extensão?
 
- O itinerário extensionista é quando o conhecimento da universidade sai das salas de aula e chega até a comunidade — por meio de oficinas, eventos, ações sociais e projetos educativos.
+ O itinerário extensionista é quando o conhecimento da universidade sai das salas de aula e chega até a comunidade por meio de oficinas, eventos, ações sociais e projetos educativos.
 
 ---
 
